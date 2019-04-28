@@ -20,4 +20,4 @@ You will also see any lint errors in the console.
 
 Useful links
 
-https://bennettfeely.com/clippy/ - for making fncy background objects
+https://bennettfeely.com/clippy/ - for making fancy background objects.
